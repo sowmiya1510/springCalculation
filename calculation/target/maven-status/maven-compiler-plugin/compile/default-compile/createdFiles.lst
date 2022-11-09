@@ -1,0 +1,6 @@
+com\operation\calculation\ServletInitializer.class
+com\operation\calculation\controller\Testcontroller.class
+com\operation\calculation\CalculationApplication.class
+com\operation\calculation\service\Serviceclass2.class
+com\operation\calculation\controller\Uselogin.class
+com\operation\calculation\service\serviceclass.class
